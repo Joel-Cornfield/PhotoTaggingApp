@@ -31,7 +31,7 @@ This is a Marvel inspired Where's Waldo-style photo tagging game where players m
 
 
 ### High Scores
-![High Scores](public/assets/score.png)
+![High Scores](public/assets/scores.png)
 
 
 ### Game Page
