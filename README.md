@@ -1,6 +1,6 @@
 # PhotoTaggingApp
 
-This is a Where's Waldo-style photo tagging game where players must identify hidden characters within an image. The game is built with a React frontend and an Express + Prisma backend, using a PostgreSQL database to store character positions, high scores, and game sessions.
+This is a Marvel inspired Where's Waldo-style photo tagging game where players must identify hidden characters within an image. The game is built with a React frontend and an Express + Prisma backend, using a PostgreSQL database to store character positions, high scores, and game sessions.
 
 ## Features
 
