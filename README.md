@@ -39,4 +39,4 @@ This is a Marvel inspired Where's Waldo-style photo tagging game where players m
 
 
 ### Gameplay Video
-![Preview](public/assets/target.mp4)
+![Preview](public/assets/targets.mp4)
