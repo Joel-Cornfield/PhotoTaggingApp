@@ -45,7 +45,7 @@ const targets = [
     name: 'Jessica Jones',
     image: `${IMAGE_BASE_URL}/assets/jessica_jones.jpg`,
     xCoords: 37,
-    yCoords: 71,
+    yCoords: 73,
   },
   {
     name: 'Spectrum',
