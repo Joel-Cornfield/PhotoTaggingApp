@@ -25,3 +25,18 @@ This is a Marvel inspired Where's Waldo-style photo tagging game where players m
 
 ### Database
 - PostgreSQL (local database for storing character locations and high scores)
+
+### Home Page
+![Home Page](public/assets/home.png)
+
+
+### High Scores
+![High Scores](public/assets/scores.png)
+
+
+### Game Page
+![Game Page](public/assets/game.png)
+
+
+### Gameplay Video
+![Preview](public/assets/targets.mp4)
